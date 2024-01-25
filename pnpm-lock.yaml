@@ -6,8 +6,8 @@ settings:
 
 dependencies:
   '@vonojs/vono':
-    specifier: 0.0.17
-    version: 0.0.17(hono@3.12.7)(vite@5.0.10)
+    specifier: 0.0.18
+    version: 0.0.18(hono@3.12.7)(vite@5.0.10)
   hono:
     specifier: ^3.12.7
     version: 3.12.7
@@ -977,8 +977,8 @@ packages:
       - '@swc/helpers'
     dev: true
 
-  /@vonojs/vono@0.0.17(hono@3.12.7)(vite@5.0.10):
-    resolution: {integrity: sha512-1RRRtlZrjFSn8fl6dIkRBIyXvOfQULSuYKkd1aWfrIS6K4aUqipnqX3bDix2QRWPpPrMF0skqHfVzHd1ZVqXTg==}
+  /@vonojs/vono@0.0.18(hono@3.12.7)(vite@5.0.10):
+    resolution: {integrity: sha512-t8NAfHMl44yqaZWKv881hXzuC5aISQpiB/R69nXML6tIP7RVFKC2U88Ql33mJM4cY2DFgJduOke56IgHhoXbmw==}
     peerDependencies:
       hono: 3.x
       vite: ^5.0.10
